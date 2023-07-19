@@ -1,0 +1,11 @@
+.error-message {
+    display: none;
+    background: rgba(255, 255, 255, 0.08);
+    background: #ed3c0d;
+    text-align: left;
+    padding: 15px;
+    font-weight: 600;
+  }
+  .error-message br + br {
+    margin-top: 25px;
+  }

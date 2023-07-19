@@ -1,0 +1,8 @@
+  .button-container {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+  .button-close {
+    color: #fff;
+    background-color:  rgba(151, 15, 15, 0.8);
+  }
